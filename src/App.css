@@ -37,6 +37,18 @@
   font-size: large;
 }
 
+.Positive {
+  background-color: green;
+}
+
+.Negative {
+  background-color: red;
+}
+
+.Zero {
+  background-color:blue;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
